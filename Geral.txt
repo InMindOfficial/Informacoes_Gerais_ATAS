@@ -1,0 +1,26 @@
+
+Objetivo prático: Com a pandemia e os novos meios de comunicação e cada vez mais viável promover aplicações para usos à distância e que valorizem 
+determinadas funções.
+Com isso, é importante que os usuários da internet possam ter acesso a aplicações que disponibilizem recursos gratuitos e/ou pagos, e que sejam 
+diretamente voltadas para áreas específicas. Nosso aplicativo visa acessibilizar o apoio psicológico credenciado, para usuários que não têm condições
+financeiras de custear estes tratamentos ou residem em locais que não são propícios ou que não têm consultórios de psicologia e que, principalmente, 
+desvincule a procura de apoio emocional em aplicativos (redes socias) que não estão ligados a este fator.
+
+Exemplos de aplicações que geram renda para os usuários:
+. Uber 
+. Ifood
+. etc
+
+
+Funcionalidade: Além de obter um contato próximo com um profissional credenciado, tem possibilidade de interagir com outros usuários.
+
+Recursos: Possibilidade de fazer postagens anônimas ou não (perguntas ou questões pessoais), filtragem de comentários e palavras que ferem os valores morais e filtragem
+de temas que interessam o usuário de acordo com suas pesquisas.
+
+Interface: https://youtu.be/cWD_hMoge-0 
+
+Início - Pedagogia ou Psicologia.
+Login - Individual; Para crianças e pré-Adolescente, e, conta de monitoramento para os pais (pedagogia)
+        Individual; Para adultos e jovens acima de 15 anos (psicologia) - https://youtu.be/V9WYm0DQXhY 
+
+

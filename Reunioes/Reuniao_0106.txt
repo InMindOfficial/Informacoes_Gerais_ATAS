@@ -1,0 +1,12 @@
+Nesta reunião definimos os pontos principais de aplicação do projeto tais como 
+sua funcionalidade e objetivo prático. Organizamos a página do GitHub do projeto
+e criamos o email oficial do aplicativo.
+
+
+
+
+Presentes na reunião:
+. Fabrício;
+. João Francisco;
+. João Gabriel;
+. Yasmin.
