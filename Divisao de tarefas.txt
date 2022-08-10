@@ -1,0 +1,11 @@
+#Divisão Tarefas Site InMind:
+
+
+
+João Francisco: Página de perfil, tela principal (modelo instagram)
+
+Fabrício: Tela de usuário
+
+João Gabriel: comunicação de chamadas: vídeo
+
+Yasmin: Tela de login, tela de configurações 
